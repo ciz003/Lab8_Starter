@@ -1,1 +1,2 @@
 # Lab8-Starter
+Graceful degradation and service workers are related because they both aim to ensure a web application still works even in situations that are not ideal. Graceful degradation is when we address lower levels with grace, making sure that a website can still have essential features and functionality in older browsers. On the other hand, service workers are used to make sure the website can still work even without internet connection. Both of these will work together to make sure that a website can still be functional in these situations.
